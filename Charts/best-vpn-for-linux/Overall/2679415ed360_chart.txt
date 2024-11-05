@@ -1,0 +1,105 @@
+
+                        <div id="2679415ed360" style="max-width: 805px; margin: 0 auto;">
+                            <canvas class="jschartgraphic" id="vpnSpeedChart_2679415ed360" width="805" height="600"></canvas>
+                        </div>
+                        <script>
+                            document.addEventListener('DOMContentLoaded', function() {
+                                var ctx = document.getElementById('vpnSpeedChart_2679415ed360').getContext('2d');
+                                var vpnSpeedChart = new Chart(ctx, {
+                                    type: 'bar',
+                                    data: {
+                                        labels: ["Average"],
+                                        datasets: [{"label": "NordVPN", "data": [37.9], "backgroundColor": "rgba(62, 95, 255, 0.8)", "borderColor": "rgba(62, 95, 255, 0.8)", "borderWidth": 1}, {"label": "Surfshark", "data": [31.7], "backgroundColor": "rgba(30, 191, 191, 0.8)", "borderColor": "rgba(30, 191, 191, 0.8)", "borderWidth": 1}, {"label": "ExpressVPN", "data": [27.1], "backgroundColor": "rgba(218, 57, 64, 0.8)", "borderColor": "rgba(218, 57, 64, 0.8)", "borderWidth": 1}, {"label": "PIA", "data": [25.6], "backgroundColor": "rgba(109, 200, 98, 0.8)", "borderColor": "rgba(109, 200, 98, 0.8)", "borderWidth": 1}, {"label": "PureVPN", "data": [29.0], "backgroundColor": "rgba(133, 102, 231, 0.8)", "borderColor": "rgba(133, 102, 231, 0.8)", "borderWidth": 1}, {"label": "Proton VPN", "data": [27.4], "backgroundColor": "rgba(75, 192, 192, 0.8)", "borderColor": "rgba(75, 192, 192, 0.8)", "borderWidth": 1}]
+                                    },
+                                    options: {
+                                        responsive: true,
+                                        plugins: {
+                                            title: {
+                                                display: true,
+                                                text: "Average for Best VPNs for Linux",
+                                                font: {
+                                                    size: 18
+                                                }
+                                            },
+                                            legend: {
+                                                display: true
+                                            },
+                                            tooltip: {
+                                                callbacks: {
+                                                    label: function(context) {
+                                                        if (context.raw <= 0.05500000000000001) {
+                                                            return 'No data available';
+                                                        }
+                                                        return context.dataset.label + ': ' + context.raw + ' Mbps';
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        scales: {
+                                            y: {
+                                                beginAtZero: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Mbps'
+                                                }
+                                            }
+                                        }
+                                    }
+                                });
+                            });
+                        {
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average for Best VPNs for Linux",
+    "description": "This chart shows the average for each VPN provider when used for best vpns for linux.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Average",
+            "value": 37.9,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Average",
+            "value": 31.7,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Average",
+            "value": 27.1,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PIA - Average",
+            "value": 25.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Average",
+            "value": 29.0,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Average",
+            "value": 27.4,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/data_json_files/best-vpn-for-linux/Overall/2679415ed360.json"
+    }
+}</script>
+                        
