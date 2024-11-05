@@ -1,0 +1,42 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "NordVPN Speed Tests for Best VPNs for Linux",
+    "description": "This chart shows the speed test results for NordVPN when used for best vpns for linux.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": "Internet speed in Mbps",
+    "measurementTechnique": "Speed test",
+    "observation": [
+        {
+            "@type": "Observation",
+            "name": "AM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 32.46,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Noon",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 46.74,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 37.89,
+                "unitText": "Mbps"
+            }
+        }
+    ]
+}
