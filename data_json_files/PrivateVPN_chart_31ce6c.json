@@ -1,0 +1,34 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "PrivateVPN Data for watching ITVX abroad",
+    "description": "This chart shows the selected metrics for PrivateVPN when used for watching itvx abroad.",
+    "url": "https://www.comparitech.com/tv-streaming/watch-itv-hub-abroad-free/",
+    "keywords": "VPN, Speed Test, Security, Privacy, Streaming",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "AM",
+            "value": 44.86,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 21.92,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 42.64,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
