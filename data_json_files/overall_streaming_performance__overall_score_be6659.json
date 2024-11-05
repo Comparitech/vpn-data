@@ -1,0 +1,70 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Streaming performance: Overall Score for Sky Go",
+    "description": "This chart shows the streaming performance: overall score for each VPN provider when used for sky go.",
+    "url": "https://www.comparitech.com/blog/vpn-privacy/unblock-and-watch-sky-go-abroad-with-a-vpn-dns/",
+    "keywords": "VPN, Speed Test, Security, Privacy, Streaming",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Streaming performance: Overall Score",
+            "value": 8.9,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Streaming performance: Overall Score",
+            "value": 8.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Streaming performance: Overall Score",
+            "value": 6.7,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PIA - Streaming performance: Overall Score",
+            "value": 6.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Streaming performance: Overall Score",
+            "value": 6.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Streaming performance: Overall Score",
+            "value": 7.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Streaming performance: Overall Score",
+            "value": 6.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Streaming performance: Overall Score",
+            "value": 4.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Hotspot Shield - Streaming performance: Overall Score",
+            "value": 6.5,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Feature scoring"
+}
