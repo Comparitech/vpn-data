@@ -1,0 +1,56 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Surfshark download speeds test chart",
+    "description": "Tested download speeds (Mbps) while connected to Surfshark servers in UK and Ireland.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd.",
+        "url": "https://www.comparitech.com"
+    },
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Speed test",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/data_json_files/surfshark_download_speeds_test_chart_2d41ad.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "UK a.m.",
+            "value": 47.2,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "UK noon",
+            "value": 46.8,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "UK p.m.",
+            "value": 42.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Ireland a.m.",
+            "value": 47.3,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Ireland noon",
+            "value": 45.4,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Ireland p.m.",
+            "value": 44.2,
+            "unitText": "Mbps"
+        }
+    ]
+}
