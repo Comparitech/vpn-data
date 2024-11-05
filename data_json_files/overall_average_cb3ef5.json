@@ -1,0 +1,40 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average for Best VPNs for Linux",
+    "description": "This chart shows the average for each VPN provider when used for best vpns for linux.",
+    "creator": "Comparitech Ltd",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "data": {
+        "NordVPN": {
+            "AM": "32.46 Mbps",
+            " ": "37.9 Mbps",
+            "Average": "28.2 Mbps"
+        },
+        "Surfshark": {
+            "AM": "36.32 Mbps",
+            " ": "31.7 Mbps",
+            "Average": "29.4 Mbps"
+        },
+        "ExpressVPN": {
+            "AM": "25.72 Mbps",
+            " ": "27.1 Mbps",
+            "Average": "30.3 Mbps"
+        },
+        "PIA": {
+            "AM": "25.93 Mbps",
+            " ": "25.6 Mbps",
+            "Average": "30.6 Mbps"
+        },
+        "PureVPN": {
+            "AM": "42.64 Mbps",
+            " ": "29.0 Mbps",
+            "Average": "29.9 Mbps"
+        },
+        "Proton VPN": {
+            "AM": "12.29 Mbps",
+            " ": "27.4 Mbps",
+            "Average": "30.3 Mbps"
+        }
+    }
+}
