@@ -1,0 +1,28 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average of other providers for Best VPNs for Linux",
+    "description": "This chart shows the average of other providers for each VPN provider when used for best vpns for linux.",
+    "creator": "Comparitech Ltd",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "data": {
+        "NordVPN": {
+            "Average of other providers": "28.2 Score out of 10"
+        },
+        "Surfshark": {
+            "Average of other providers": "29.4 Score out of 10"
+        },
+        "ExpressVPN": {
+            "Average of other providers": "30.3 Score out of 10"
+        },
+        "PIA": {
+            "Average of other providers": "30.6 Score out of 10"
+        },
+        "PureVPN": {
+            "Average of other providers": "29.9 Score out of 10"
+        },
+        "Proton VPN": {
+            "Average of other providers": "30.3 Score out of 10"
+        }
+    }
+}
