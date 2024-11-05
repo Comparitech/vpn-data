@@ -1,0 +1,44 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Surfshark download speeds test chart",
+    "description": "Tested download speeds (Mbps) while connected to Surfshark servers in UK and Ireland.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd.",
+        "url": "https://www.comparitech.com"
+    },
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "UK p.m.",
+            "value": "42.6 Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Ireland a.m.",
+            "value": "47.3 Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "UK noon",
+            "value": "46.8 Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Ireland noon",
+            "value": "45.4 Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Ireland p.m.",
+            "value": "44.2 Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "UK a.m.",
+            "value": "47.2 Mbps"
+        }
+    ]
+}
