@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Proton VPN Speed Tests for Best VPNs for Linux",
+    "description": "This chart shows the speed test results for Proton VPN when used for best vpns for linux.",
+    "creator": "Comparitech Ltd",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "data": {
+        "Proton VPN": {
+            "AM": "12.29 Mbps",
+            "Noon": "18.93 Mbps",
+            "PM": "41.64 Mbps"
+        }
+    }
+}
