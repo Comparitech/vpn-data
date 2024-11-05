@@ -1,0 +1,231 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average for Best VPNs for Linux",
+    "description": "This chart shows the average for each VPN provider when used for best vpns for linux.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": "Internet speed in Mbps",
+    "measurementTechnique": "Speed test",
+    "observation": [
+        {
+            "@type": "Observation",
+            "name": "NordVPN - AM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 32.46,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "NordVPN - Noon",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 46.74,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "NordVPN - PM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 25.01,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "NordVPN - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 37.9,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Surfshark - AM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 36.32,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Surfshark - Noon",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 40.79,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Surfshark - PM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 37.89,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Surfshark - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 31.7,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "ExpressVPN - AM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 25.72,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "ExpressVPN - Noon",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 29.23,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "ExpressVPN - PM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 20.86,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "ExpressVPN - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 27.1,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PIA - AM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 25.93,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PIA - Noon",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 26.15,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PIA - PM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 25.24,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PIA - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 25.6,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PureVPN - AM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 42.64,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PureVPN - Noon",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 43.33,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PureVPN - PM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 25.47,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PureVPN - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 29.0,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Proton VPN - AM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 12.29,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Proton VPN - Noon",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 18.93,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Proton VPN - PM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 41.64,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Proton VPN - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 27.4,
+                "unitText": "Mbps"
+            }
+        }
+    ]
+}
