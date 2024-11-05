@@ -1,0 +1,69 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Streaming: Overall Score for Best VPNs for Linux",
+    "description": "This chart shows the streaming: overall score for each VPN provider when used for best vpns for linux.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": "Feature score out of 10",
+    "measurementTechnique": "Feature scoring",
+    "observation": [
+        {
+            "@type": "Observation",
+            "name": "NordVPN - Streaming: Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 9.2,
+                "unitText": "Score out of 10"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Surfshark - Streaming: Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 9.2,
+                "unitText": "Score out of 10"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "ExpressVPN - Streaming: Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 9.2,
+                "unitText": "Score out of 10"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PIA - Streaming: Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 8.6,
+                "unitText": "Score out of 10"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PureVPN - Streaming: Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 7.3,
+                "unitText": "Score out of 10"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Proton VPN - Streaming: Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 6.7,
+                "unitText": "Score out of 10"
+            }
+        }
+    ]
+}
