@@ -1,0 +1,69 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Overall Score for Best VPNs for Linux",
+    "description": "This chart shows the overall score for each VPN provider when used for best vpns for linux.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": "Feature score out of 10",
+    "measurementTechnique": "Feature scoring",
+    "observation": [
+        {
+            "@type": "Observation",
+            "name": "NordVPN - Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 9.0,
+                "unitText": "Score out of 10"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Surfshark - Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 8.7,
+                "unitText": "Score out of 10"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "ExpressVPN - Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 7.8,
+                "unitText": "Score out of 10"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PIA - Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 7.8,
+                "unitText": "Score out of 10"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PureVPN - Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 7.1,
+                "unitText": "Score out of 10"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Proton VPN - Overall Score",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 7.3,
+                "unitText": "Score out of 10"
+            }
+        }
+    ]
+}
