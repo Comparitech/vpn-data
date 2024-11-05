@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Surfshark Speed Tests for Best VPNs for Linux",
+    "description": "This chart shows the speed test results for Surfshark when used for best vpns for linux.",
+    "creator": "Comparitech Ltd",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "data": {
+        "Surfshark": {
+            "AM": "36.32 Mbps",
+            "Noon": "40.79 Mbps",
+            "PM": "37.89 Mbps",
+            "Average": "31.74 Mbps",
+            "Average of other providers": "29.4 Mbps"
+        }
+    }
+}
