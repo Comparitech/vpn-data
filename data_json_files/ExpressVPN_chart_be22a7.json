@@ -1,0 +1,42 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "ExpressVPN Speed Tests for Best VPNs for Linux",
+    "description": "This chart shows the speed test results for ExpressVPN when used for best vpns for linux.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": "Internet speed in Mbps",
+    "measurementTechnique": "Speed test",
+    "observation": [
+        {
+            "@type": "Observation",
+            "name": "AM",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 25.72,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Noon",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 29.23,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 27.09,
+                "unitText": "Mbps"
+            }
+        }
+    ]
+}
