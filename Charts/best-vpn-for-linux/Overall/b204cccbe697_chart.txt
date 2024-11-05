@@ -1,0 +1,105 @@
+
+                        <div id="b204cccbe697" style="max-width: 805px; margin: 0 auto;">
+                            <canvas class="jschartgraphic" id="vpnSpeedChart_b204cccbe697" width="805" height="600"></canvas>
+                        </div>
+                        <script>
+                            document.addEventListener('DOMContentLoaded', function() {
+                                var ctx = document.getElementById('vpnSpeedChart_b204cccbe697').getContext('2d');
+                                var vpnSpeedChart = new Chart(ctx, {
+                                    type: 'bar',
+                                    data: {
+                                        labels: ["Average Australia download speed (Mbps)"],
+                                        datasets: [{"label": "NordVPN", "data": [0], "backgroundColor": "rgba(62, 95, 255, 0.8)", "borderColor": "rgba(62, 95, 255, 0.8)", "borderWidth": 1}, {"label": "Surfshark", "data": [0], "backgroundColor": "rgba(30, 191, 191, 0.8)", "borderColor": "rgba(30, 191, 191, 0.8)", "borderWidth": 1}, {"label": "ExpressVPN", "data": [0], "backgroundColor": "rgba(218, 57, 64, 0.8)", "borderColor": "rgba(218, 57, 64, 0.8)", "borderWidth": 1}, {"label": "PIA", "data": [0], "backgroundColor": "rgba(109, 200, 98, 0.8)", "borderColor": "rgba(109, 200, 98, 0.8)", "borderWidth": 1}, {"label": "PureVPN", "data": [0], "backgroundColor": "rgba(133, 102, 231, 0.8)", "borderColor": "rgba(133, 102, 231, 0.8)", "borderWidth": 1}, {"label": "Proton VPN", "data": [0], "backgroundColor": "rgba(75, 192, 192, 0.8)", "borderColor": "rgba(75, 192, 192, 0.8)", "borderWidth": 1}]
+                                    },
+                                    options: {
+                                        responsive: true,
+                                        plugins: {
+                                            title: {
+                                                display: true,
+                                                text: "Average Australia download speed (Mbps) for Best VPNs for Linux",
+                                                font: {
+                                                    size: 18
+                                                }
+                                            },
+                                            legend: {
+                                                display: true
+                                            },
+                                            tooltip: {
+                                                callbacks: {
+                                                    label: function(context) {
+                                                        if (context.raw <= 0.05500000000000001) {
+                                                            return 'No data available';
+                                                        }
+                                                        return context.dataset.label + ': ' + context.raw + ' Score out of 10';
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        scales: {
+                                            y: {
+                                                beginAtZero: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Score out of 10'
+                                                }
+                                            }
+                                        }
+                                    }
+                                });
+                            });
+                        {
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average Australia download speed (Mbps) for Best VPNs for Linux",
+    "description": "This chart shows the average australia download speed (mbps) for each VPN provider when used for best vpns for linux.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Average Australia download speed (Mbps)",
+            "value": 0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Average Australia download speed (Mbps)",
+            "value": 0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Average Australia download speed (Mbps)",
+            "value": 0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PIA - Average Australia download speed (Mbps)",
+            "value": 0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Average Australia download speed (Mbps)",
+            "value": 0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Average Australia download speed (Mbps)",
+            "value": 0,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Score out of 10",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/data_json_files/best-vpn-for-linux/Overall/b204cccbe697.json"
+    }
+}</script>
+                        
