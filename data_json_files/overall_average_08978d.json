@@ -1,0 +1,69 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average for Best VPNs for Linux",
+    "description": "This chart shows the average for each VPN provider when used for best vpns for linux.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": "Internet speed in Mbps",
+    "measurementTechnique": "Speed test",
+    "observation": [
+        {
+            "@type": "Observation",
+            "name": "NordVPN - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 37.9,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Surfshark - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 31.7,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "ExpressVPN - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 27.1,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PIA - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 25.6,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "PureVPN - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 29.0,
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "Proton VPN - Average",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": 27.4,
+                "unitText": "Mbps"
+            }
+        }
+    ]
+}
