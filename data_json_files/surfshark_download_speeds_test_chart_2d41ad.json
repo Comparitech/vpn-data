@@ -1,0 +1,183 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Surfshark download speeds test chart",
+    "description": "Tested download speeds (Mbps) while connected to Surfshark servers in UK and Ireland.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd.",
+        "url": "https://www.comparitech.com"
+    },
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/data_json_files/surfshark_download_speeds_test_chart_83c8ad.json"
+    },
+    "variableMeasured": "Internet speed in Mbps",
+    "measurementTechnique": "Speed test",
+    "observation": [
+        {
+            "@type": "Observation",
+            "name": "@type",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "PropertyValue",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "name",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "UK p.m.",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "value",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "42.6 Mbps",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "@type",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "PropertyValue",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "name",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "Ireland a.m.",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "value",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "47.3 Mbps",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "@type",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "PropertyValue",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "name",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "UK noon",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "value",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "46.8 Mbps",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "@type",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "PropertyValue",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "name",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "Ireland noon",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "value",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "45.4 Mbps",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "@type",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "PropertyValue",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "name",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "Ireland p.m.",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "value",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "44.2 Mbps",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "@type",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "PropertyValue",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "name",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "UK a.m.",
+                "unitText": "Mbps"
+            }
+        },
+        {
+            "@type": "Observation",
+            "name": "value",
+            "measuredValue": {
+                "@type": "QuantitativeValue",
+                "value": "47.2 Mbps",
+                "unitText": "Mbps"
+            }
+        }
+    ]
+}
