@@ -1,0 +1,20 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Proton VPN Speed Tests for The best VPNs for Netflix",
+    "description": "This chart shows the speed test results for Proton VPN when used for the best vpns for netflix.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Average speed",
+            "value": 40.25,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
