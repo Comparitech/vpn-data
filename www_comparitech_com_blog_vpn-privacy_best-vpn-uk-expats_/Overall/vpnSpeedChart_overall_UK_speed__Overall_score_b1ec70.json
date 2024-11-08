@@ -1,0 +1,68 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "UK speed: Overall score for Best VPNs for UK expats",
+    "description": "This chart shows the uk speed: overall score for each VPN provider when used for best vpns for uk expats.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - UK speed: Overall score",
+            "value": 8.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - UK speed: Overall score",
+            "value": 8.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - UK speed: Overall score",
+            "value": 8.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - UK speed: Overall score",
+            "value": 8.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - UK speed: Overall score",
+            "value": 7.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - UK speed: Overall score",
+            "value": 10.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - UK speed: Overall score",
+            "value": 8.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PIA - UK speed: Overall score",
+            "value": 0.9,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - UK speed: Overall score",
+            "value": 5.4,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Score out of 10"
+}
