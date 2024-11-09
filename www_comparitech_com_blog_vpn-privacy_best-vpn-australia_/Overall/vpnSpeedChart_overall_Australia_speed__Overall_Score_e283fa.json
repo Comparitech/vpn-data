@@ -1,0 +1,62 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Australia speed: Overall Score for Best VPNs for Australia",
+    "description": "This chart shows the australia speed: overall score for each VPN provider when used for best vpns for australia.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Australia speed: Overall Score",
+            "value": 9.7,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Australia speed: Overall Score",
+            "value": 10.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Australia speed: Overall Score",
+            "value": 7.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Australia speed: Overall Score",
+            "value": 7.7,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Australia speed: Overall Score",
+            "value": 6.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Australia speed: Overall Score",
+            "value": 5.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Australia speed: Overall Score",
+            "value": 7.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Australia speed: Overall Score",
+            "value": 3.5,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Score out of 10"
+}
