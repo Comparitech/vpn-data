@@ -1,0 +1,68 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "IPVanish Speed Tests for Best VPNs for travel abroad",
+    "description": "This chart shows the speed test results for IPVanish when used for best vpns for travel abroad.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Japan",
+            "value": 46.06,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "South Korea",
+            "value": 33.15,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Mexico",
+            "value": 38.97,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Italy",
+            "value": 48.36,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Greece",
+            "value": 45.08,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "France",
+            "value": 47.73,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Egypt",
+            "value": 0.0,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average speed",
+            "value": 37.05,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 37.08,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
