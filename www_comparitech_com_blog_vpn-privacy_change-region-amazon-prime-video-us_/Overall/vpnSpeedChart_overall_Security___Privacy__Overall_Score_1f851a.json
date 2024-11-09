@@ -1,0 +1,20 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Security & Privacy: Overall Score for changing country to watch Amazon Prime Video US",
+    "description": "This chart shows the security & privacy: overall score for each VPN provider when used for changing country to watch amazon prime video us.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Security & Privacy: Overall Score",
+            "value": 9.5,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Score out of 10"
+}
