@@ -1,0 +1,68 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Streaming suitability: Overall Score for watching BBC iPlayer in the USA",
+    "description": "This chart shows the streaming suitability: overall score for each VPN provider when used for watching bbc iplayer in the usa.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Streaming suitability: Overall Score",
+            "value": 8.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Streaming suitability: Overall Score",
+            "value": 8.7,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Streaming suitability: Overall Score",
+            "value": 8.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Streaming suitability: Overall Score",
+            "value": 8.9,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Streaming suitability: Overall Score",
+            "value": 8.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Streaming suitability: Overall Score",
+            "value": 7.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PIA - Streaming suitability: Overall Score",
+            "value": 6.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Streaming suitability: Overall Score",
+            "value": 5.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Streaming suitability: Overall Score",
+            "value": 6.5,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Score out of 10"
+}
