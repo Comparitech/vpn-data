@@ -1,0 +1,62 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Ease of Use: Overall Score for watching British TV in Spain",
+    "description": "This chart shows the ease of use: overall score for each VPN provider when used for watching british tv in spain.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Ease of Use: Overall Score",
+            "value": 9.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Ease of Use: Overall Score",
+            "value": 8.9,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Ease of Use: Overall Score",
+            "value": 9.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Ease of Use: Overall Score",
+            "value": 9.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Ease of Use: Overall Score",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Ease of Use: Overall Score",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Ease of Use: Overall Score",
+            "value": 8.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Ease of Use: Overall Score",
+            "value": 8.6,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Score out of 10"
+}
