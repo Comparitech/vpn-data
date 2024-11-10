@@ -1,0 +1,302 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average for Best VPNs for HBO Max",
+    "description": "This chart shows the average for each VPN provider when used for best vpns for hbo max.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Caribbean - Speed test: Various",
+            "value": 120.21,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Europe - Speed test: Finland",
+            "value": 119.77,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Europe - Speed test: Portugal",
+            "value": 115.71,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Latin America - Speed test: Brazil",
+            "value": 119.2,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - United States - Speed test: US",
+            "value": 119.54,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Average",
+            "value": 118.9,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Caribbean - Speed test: Various",
+            "value": 120.5,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Europe - Speed test: Finland",
+            "value": 126.03,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Europe - Speed test: Portugal",
+            "value": 119.24,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Latin America - Speed test: Brazil",
+            "value": 120.8,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - United States - Speed test: US",
+            "value": 115.41,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Average",
+            "value": 120.4,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Caribbean - Speed test: Various",
+            "value": 119.24,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Europe - Speed test: Finland",
+            "value": 106.32,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Europe - Speed test: Portugal",
+            "value": 121.07,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Latin America - Speed test: Brazil",
+            "value": 127.5,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - United States - Speed test: US",
+            "value": 121.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Average",
+            "value": 119.1,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Caribbean - Speed test: Various",
+            "value": 116.62,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Europe - Speed test: Finland",
+            "value": 125.43,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Europe - Speed test: Portugal",
+            "value": 112.13,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Latin America - Speed test: Brazil",
+            "value": 111.8,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - United States - Speed test: US",
+            "value": 97.11,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Average",
+            "value": 112.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Caribbean - Speed test: Various",
+            "value": 92.44,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Europe - Speed test: Finland",
+            "value": 120.19,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Europe - Speed test: Portugal",
+            "value": 118.0,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Latin America - Speed test: Brazil",
+            "value": 88.8,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - United States - Speed test: US",
+            "value": 41.24,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Average",
+            "value": 92.1,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Caribbean - Speed test: Various",
+            "value": 105.9,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Europe - Speed test: Finland",
+            "value": 99.21,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Europe - Speed test: Portugal",
+            "value": 117.04,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Latin America - Speed test: Brazil",
+            "value": 103.2,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - United States - Speed test: US",
+            "value": 104.02,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Average",
+            "value": 105.9,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Caribbean - Speed test: Various",
+            "value": 121.05,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Europe - Speed test: Finland",
+            "value": 129.28,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Europe - Speed test: Portugal",
+            "value": 115.99,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Latin America - Speed test: Brazil",
+            "value": 115.7,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - United States - Speed test: US",
+            "value": 123.54,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Average",
+            "value": 121.1,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Caribbean - Speed test: Various",
+            "value": 0.0,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Europe - Speed test: Finland",
+            "value": 115.16,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Europe - Speed test: Portugal",
+            "value": 92.01,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Latin America - Speed test: Brazil",
+            "value": 98.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - United States - Speed test: US",
+            "value": 108.01,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Average",
+            "value": 103.4,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
