@@ -1,0 +1,50 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Proton VPN Speed Tests for watching Pornhub privately",
+    "description": "This chart shows the speed test results for Proton VPN when used for watching pornhub privately.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Asia-Pacific - Speed test: Australia",
+            "value": 20.67,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Europe - Speed test: UK",
+            "value": 44.79,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "North America - Speed test: US",
+            "value": 30.12,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Latin America - Speed test: Argentina",
+            "value": 44.3,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average speed",
+            "value": 34.96,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 40.08,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
