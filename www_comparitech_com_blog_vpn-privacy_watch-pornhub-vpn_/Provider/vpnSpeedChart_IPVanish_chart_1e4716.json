@@ -1,0 +1,50 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "IPVanish Speed Tests for watching Pornhub privately",
+    "description": "This chart shows the speed test results for IPVanish when used for watching pornhub privately.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Asia-Pacific - Speed test: Australia",
+            "value": 34.47,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Europe - Speed test: UK",
+            "value": 51.45,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "North America - Speed test: US",
+            "value": 52.63,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Latin America - Speed test: Argentina",
+            "value": 42.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average speed",
+            "value": 45.3,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 40.6,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
