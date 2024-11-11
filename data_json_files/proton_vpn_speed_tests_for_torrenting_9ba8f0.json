@@ -1,0 +1,49 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Proton VPN Speed Tests for Torrenting",
+    "description": "This chart shows the speed test results for Proton VPN when used for torrenting.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_vpn-torrenting_/Provider/vpnSpeedChart_Proton_VPN_chart_948662.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Torrent speed test: UK average (MB/s)",
+            "value": 5.3,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Torrent speed test: US average (MB/s)",
+            "value": 5.3,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Torrent speed test: Singapore average (MB/s)",
+            "value": 5.4,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Torrent speed test global average",
+            "value": 5.34,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 5.47,
+            "unitText": "Value"
+        }
+    ]
+}
