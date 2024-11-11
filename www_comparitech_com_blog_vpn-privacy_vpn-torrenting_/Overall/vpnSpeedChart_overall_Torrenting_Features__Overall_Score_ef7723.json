@@ -1,0 +1,74 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Torrenting Features: Overall Score for Torrenting",
+    "description": "This chart shows the torrenting features: overall score for each VPN provider when used for torrenting.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Torrenting Features: Overall Score",
+            "value": 7.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Torrenting Features: Overall Score",
+            "value": 7.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Torrenting Features: Overall Score",
+            "value": 6.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Torrenting Features: Overall Score",
+            "value": 6.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Torrenting Features: Overall Score",
+            "value": 7.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Torrenting Features: Overall Score",
+            "value": 8.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Torrenting Features: Overall Score",
+            "value": 6.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Torrenting Features: Overall Score",
+            "value": 3.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Hotspot Shield - Torrenting Features: Overall Score",
+            "value": 6.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "StrongVPN - Torrenting Features: Overall Score",
+            "value": 6.2,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Score out of 10"
+}
