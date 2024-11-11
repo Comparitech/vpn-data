@@ -1,0 +1,61 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Surfshark Speed Tests for Best VPNs for the dark web",
+    "description": "This chart shows the speed test results for Surfshark when used for best vpns for the dark web.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-dark_/Provider/vpnSpeedChart_Surfshark_chart_268efe.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Australia",
+            "value": 277.06,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Brazil",
+            "value": 269.99,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Germany",
+            "value": 372.96,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "UK",
+            "value": 216.42,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US",
+            "value": 318.05,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 290.9,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 180.6,
+            "unitText": "Value"
+        }
+    ]
+}
