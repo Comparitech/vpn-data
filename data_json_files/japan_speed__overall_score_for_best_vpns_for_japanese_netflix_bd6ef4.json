@@ -1,0 +1,62 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Japan Speed: Overall Score for Best VPNs for Japanese Netflix",
+    "description": "This chart shows the japan speed: overall score for each VPN provider when used for best vpns for japanese netflix.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Japan Speed: Overall Score",
+            "value": "8.5 Score out of 10",
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Japan Speed: Overall Score",
+            "value": "8.1 Score out of 10",
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Japan Speed: Overall Score",
+            "value": "8.6 Score out of 10",
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Japan Speed: Overall Score",
+            "value": "7.6 Score out of 10",
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Japan Speed: Overall Score",
+            "value": "7.2 Score out of 10",
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Japan Speed: Overall Score",
+            "value": "10.0 Score out of 10",
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Japan Speed: Overall Score",
+            "value": "4.4 Score out of 10",
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Japan Speed: Overall Score",
+            "value": "0.8 Score out of 10",
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Feature scoring"
+}
