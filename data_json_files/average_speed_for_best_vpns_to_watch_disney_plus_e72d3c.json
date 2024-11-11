@@ -1,0 +1,67 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average speed for Best VPNs to watch Disney Plus",
+    "description": "This chart shows the average speed for each VPN provider when used for best vpns to watch disney plus.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-disney-plus_/Overall/vpnSpeedChart_overall_Average_speed_9c9498.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Average speed",
+            "value": 45.4,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Average speed",
+            "value": 45.8,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Average speed",
+            "value": 42.5,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Average speed",
+            "value": 42.5,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Average speed",
+            "value": 44.4,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Average speed",
+            "value": 46.1,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Average speed",
+            "value": 43.8,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Average speed",
+            "value": 39.5,
+            "unitText": "Value"
+        }
+    ]
+}
