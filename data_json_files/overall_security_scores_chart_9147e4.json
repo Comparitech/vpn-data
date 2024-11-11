@@ -1,0 +1,63 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "overall security scores chart",
+    "description": "Chart showing the overall security scores for each VPN",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd.",
+        "url": "https://www.comparitech.com"
+    },
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Security & privacy: Overall Score",
+            "value": "9.5 Mbps",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Security & privacy: Overall Score",
+            "value": "9.5 Mbps",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Security & privacy: Overall Score",
+            "value": "8.9 Mbps",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Security & privacy: Overall Score",
+            "value": "9.2 Mbps",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Security & privacy: Overall Score",
+            "value": "8.9 Mbps",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Security & privacy: Overall Score",
+            "value": "8.7 Mbps",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Security & privacy: Overall Score",
+            "value": "9.3 Mbps",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Security & privacy: Overall Score",
+            "value": "8.6 Mbps",
+            "unitText": "Value"
+        }
+    ],
+    "measurementTechnique": "Measurement"
+}
