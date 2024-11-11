@@ -1,0 +1,74 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Torrent speed test global average for Torrenting",
+    "description": "This chart shows the torrent speed test global average for each VPN provider when used for torrenting.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Torrent speed test global average",
+            "value": 5.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Torrent speed test global average",
+            "value": 5.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Torrent speed test global average",
+            "value": 5.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Torrent speed test global average",
+            "value": 5.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Torrent speed test global average",
+            "value": 5.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Torrent speed test global average",
+            "value": 5.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Torrent speed test global average",
+            "value": 5.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Torrent speed test global average",
+            "value": 5.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Hotspot Shield - Torrent speed test global average",
+            "value": 5.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "StrongVPN - Torrent speed test global average",
+            "value": 5.4,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Score out of 10"
+}
