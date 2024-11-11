@@ -1,0 +1,74 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Security & privacy: Overall Score for Torrenting",
+    "description": "This chart shows the security & privacy: overall score for each VPN provider when used for torrenting.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Security & privacy: Overall Score",
+            "value": 9.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Security & privacy: Overall Score",
+            "value": 9.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Security & privacy: Overall Score",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Security & privacy: Overall Score",
+            "value": 8.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Security & privacy: Overall Score",
+            "value": 9.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Security & privacy: Overall Score",
+            "value": 9.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Security & privacy: Overall Score",
+            "value": 7.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Security & privacy: Overall Score",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Hotspot Shield - Security & privacy: Overall Score",
+            "value": 7.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "StrongVPN - Security & privacy: Overall Score",
+            "value": 8.0,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Score out of 10"
+}
