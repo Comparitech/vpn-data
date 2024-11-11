@@ -1,0 +1,61 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "IPVanish Speed Tests for Best VPNs for the dark web",
+    "description": "This chart shows the speed test results for IPVanish when used for best vpns for the dark web.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-dark_/Provider/vpnSpeedChart_IPVanish_chart_1bb85e.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Australia",
+            "value": 86.69,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Brazil",
+            "value": 167.9,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Germany",
+            "value": 192.43,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "UK",
+            "value": 208.66,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US",
+            "value": 192.42,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 181.62,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 181.9,
+            "unitText": "Value"
+        }
+    ]
+}
