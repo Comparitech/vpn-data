@@ -1,0 +1,73 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Value for Money: Overall Score for Best VPNs for ITV hub player",
+    "description": "This chart shows the value for money: overall score for each VPN provider when used for best vpns for itv hub player.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-itv_/Overall/vpnSpeedChart_overall_Value_for_Money__Overall_Score_b8a873.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Value for Money: Overall Score",
+            "value": 9.5,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Value for Money: Overall Score",
+            "value": 9.7,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Value for Money: Overall Score",
+            "value": 9.6,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Value for Money: Overall Score",
+            "value": 9.0,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Value for Money: Overall Score",
+            "value": 9.5,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PIA - Value for Money: Overall Score",
+            "value": 8.2,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Value for Money: Overall Score",
+            "value": 8.2,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Value for Money: Overall Score",
+            "value": 7.4,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Value for Money: Overall Score",
+            "value": 8.1,
+            "unitText": "Value"
+        }
+    ]
+}
