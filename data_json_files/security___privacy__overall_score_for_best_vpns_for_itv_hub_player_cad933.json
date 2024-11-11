@@ -1,0 +1,73 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Security & Privacy: Overall Score for Best VPNs for ITV hub player",
+    "description": "This chart shows the security & privacy: overall score for each VPN provider when used for best vpns for itv hub player.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Feature scoring",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-itv_/Overall/vpnSpeedChart_overall_Security___Privacy__Overall_Score_e808e5.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Security & Privacy: Overall Score",
+            "value": 9.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Security & Privacy: Overall Score",
+            "value": 9.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Security & Privacy: Overall Score",
+            "value": 8.9,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Security & Privacy: Overall Score",
+            "value": 9.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Security & Privacy: Overall Score",
+            "value": 8.9,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PIA - Security & Privacy: Overall Score",
+            "value": 9.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Security & Privacy: Overall Score",
+            "value": 8.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Security & Privacy: Overall Score",
+            "value": 9.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Security & Privacy: Overall Score",
+            "value": 8.7,
+            "unitText": "Score out of 10"
+        }
+    ]
+}
