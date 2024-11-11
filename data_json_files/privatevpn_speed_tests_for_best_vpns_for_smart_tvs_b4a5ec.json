@@ -1,0 +1,49 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "PrivateVPN Speed Tests for Best VPNs for smart TVs",
+    "description": "This chart shows the speed test results for PrivateVPN when used for best vpns for smart tvs.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-smart-tv_/Provider/vpnSpeedChart_PrivateVPN_chart_7e4be3.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "AM",
+            "value": 116.83,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 120.83,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 134.54,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 70.4,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Avg - other providers",
+            "value": 216.87,
+            "unitText": "Value"
+        }
+    ]
+}
