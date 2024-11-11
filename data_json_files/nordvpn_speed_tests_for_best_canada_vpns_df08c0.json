@@ -1,0 +1,49 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "NordVPN Speed Tests for Best Canada VPNs",
+    "description": "This chart shows the speed test results for NordVPN when used for best canada vpns.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-canada_/Provider/vpnSpeedChart_NordVPN_chart_128e6d.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "AM",
+            "value": 47.58,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 49.26,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 48.1,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 48.32,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 44.21,
+            "unitText": "Value"
+        }
+    ]
+}
