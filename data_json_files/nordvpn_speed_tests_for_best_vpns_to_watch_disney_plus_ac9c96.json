@@ -1,0 +1,55 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "NordVPN Speed Tests for Best VPNs to watch Disney Plus",
+    "description": "This chart shows the speed test results for NordVPN when used for best vpns to watch disney plus.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-disney-plus_/Provider/vpnSpeedChart_NordVPN_chart_597edb.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Europe - Speed test: UK",
+            "value": 47.0,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Asia-Pacific - Speed test: Japan",
+            "value": 45.54,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Latin America - Speed test: Brazil",
+            "value": 42.4,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "North America - Speed test: US",
+            "value": 46.82,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average speed",
+            "value": 45.45,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 43.77,
+            "unitText": "Value"
+        }
+    ]
+}
