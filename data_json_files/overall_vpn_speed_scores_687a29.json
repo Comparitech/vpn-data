@@ -1,0 +1,63 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Overall VPN speed scores",
+    "description": "Chart showing the overall speed scores (out of 10) for each VPN provider tested.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd.",
+        "url": "https://www.comparitech.com"
+    },
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Speed tests where Max available: OVERALL SCORE",
+            "value": "9.7 Score out of 10",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Speed tests where Max available: OVERALL SCORE",
+            "value": "9.9 Score out of 10",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Speed tests where Max available: OVERALL SCORE",
+            "value": "8.6 Score out of 10",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Speed tests where Max available: OVERALL SCORE",
+            "value": "8.6 Score out of 10",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Speed tests where Max available: OVERALL SCORE",
+            "value": "9.3 Score out of 10",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Speed tests where Max available: OVERALL SCORE",
+            "value": "10.0 Score out of 10",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Speed tests where Max available: OVERALL SCORE",
+            "value": "9.1 Score out of 10",
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Speed tests where Max available: OVERALL SCORE",
+            "value": "7.5 Score out of 10",
+            "unitText": "Value"
+        }
+    ],
+    "measurementTechnique": "Measurement"
+}
