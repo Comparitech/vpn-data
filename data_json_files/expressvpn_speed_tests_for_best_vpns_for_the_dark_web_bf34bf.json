@@ -1,0 +1,61 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "ExpressVPN Speed Tests for Best VPNs for the dark web",
+    "description": "This chart shows the speed test results for ExpressVPN when used for best vpns for the dark web.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-dark_/Provider/vpnSpeedChart_ExpressVPN_chart_fc43a6.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Australia",
+            "value": 112.45,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Brazil",
+            "value": 180.87,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Germany",
+            "value": 200.52,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "UK",
+            "value": 328.05,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US",
+            "value": 183.29,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 201.04,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 197.51,
+            "unitText": "Value"
+        }
+    ]
+}
