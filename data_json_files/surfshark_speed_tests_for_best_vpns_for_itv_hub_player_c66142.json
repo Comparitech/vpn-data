@@ -1,0 +1,49 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Surfshark Speed Tests for Best VPNs for ITV hub player",
+    "description": "This chart shows the speed test results for Surfshark when used for best vpns for itv hub player.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-itv_/Provider/vpnSpeedChart_Surfshark_chart_f02127.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "UK",
+            "value": 38.71,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 46.25,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 45.82,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 43.59,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 38.6,
+            "unitText": "Value"
+        }
+    ]
+}
