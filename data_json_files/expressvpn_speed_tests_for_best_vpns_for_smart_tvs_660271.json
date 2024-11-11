@@ -1,0 +1,49 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "ExpressVPN Speed Tests for Best VPNs for smart TVs",
+    "description": "This chart shows the speed test results for ExpressVPN when used for best vpns for smart tvs.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-smart-tv_/Provider/vpnSpeedChart_ExpressVPN_chart_f4f038.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "AM",
+            "value": 187.87,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 183.35,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 194.47,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 169.57,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Avg - other providers",
+            "value": 204.47,
+            "unitText": "Value"
+        }
+    ]
+}
