@@ -1,0 +1,55 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "PrivateVPN Speed Tests for Best VPNs to watch Disney Plus",
+    "description": "This chart shows the speed test results for PrivateVPN when used for best vpns to watch disney plus.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-disney-plus_/Provider/vpnSpeedChart_PrivateVPN_chart_24fc78.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Europe - Speed test: UK",
+            "value": 46.97,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Asia-Pacific - Speed test: Japan",
+            "value": 45.71,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Latin America - Speed test: Brazil",
+            "value": 20.11,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "North America - Speed test: US",
+            "value": 45.37,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average speed",
+            "value": 39.55,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 43.76,
+            "unitText": "Value"
+        }
+    ]
+}
