@@ -1,0 +1,49 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "PureVPN Speed Tests for Best VPNs for ITV hub player",
+    "description": "This chart shows the speed test results for PureVPN when used for best vpns for itv hub player.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Measurement",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-itv_/Provider/vpnSpeedChart_PureVPN_chart_1e1a38.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "UK",
+            "value": 22.84,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 20.7,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 41.33,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 28.29,
+            "unitText": "Value"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 40.51,
+            "unitText": "Value"
+        }
+    ]
+}
