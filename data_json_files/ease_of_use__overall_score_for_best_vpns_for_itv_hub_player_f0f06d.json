@@ -1,0 +1,73 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Ease of Use: Overall Score for Best VPNs for ITV hub player",
+    "description": "This chart shows the ease of use: overall score for each VPN provider when used for best vpns for itv hub player.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": "Feature scoring",
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/Comparitech/vpn-data/main/www_comparitech_com_blog_vpn-privacy_best-vpn-itv_/Overall/vpnSpeedChart_overall_Ease_of_Use__Overall_Score_681bf8.json"
+    },
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Ease of Use: Overall Score",
+            "value": 9.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Ease of Use: Overall Score",
+            "value": 8.9,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Ease of Use: Overall Score",
+            "value": 9.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Ease of Use: Overall Score",
+            "value": 9.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Ease of Use: Overall Score",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PIA - Ease of Use: Overall Score",
+            "value": 9.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Ease of Use: Overall Score",
+            "value": 8.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Ease of Use: Overall Score",
+            "value": 8.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Ease of Use: Overall Score",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        }
+    ]
+}
