@@ -1,0 +1,68 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Streaming ability: Overall Score for Best VPNs for Turkey",
+    "description": "This chart shows the streaming ability: overall score for each VPN provider when used for best vpns for turkey.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - NordVPN",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - Surfshark",
+            "value": 8.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - IPVanish",
+            "value": 8.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - CyberGhost",
+            "value": 6.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - ExpressVPN",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - PureVPN",
+            "value": 6.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - PIA",
+            "value": 6.7,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - Proton VPN",
+            "value": 5.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - PrivateVPN",
+            "value": 4.0,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Expert scoring"
+}
