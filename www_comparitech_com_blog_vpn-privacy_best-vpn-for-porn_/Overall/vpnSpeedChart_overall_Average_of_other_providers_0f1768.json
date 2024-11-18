@@ -1,0 +1,62 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average of other providers for Best VPNs for Porn: Streaming unrestricted adult sites",
+    "description": "This chart shows the average of other providers for each VPN provider when used for best vpns for porn: streaming unrestricted adult sites.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - NordVPN",
+            "value": 165.1,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - Surfshark",
+            "value": 165.4,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - IPVanish",
+            "value": 167.5,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - CyberGhost",
+            "value": 166.3,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - ExpressVPN",
+            "value": 183.3,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - PureVPN",
+            "value": 169.7,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - Proton VPN",
+            "value": 171.1,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - PrivateVPN",
+            "value": 169.1,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
