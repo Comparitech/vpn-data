@@ -1,0 +1,68 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "macOS Suitability: Overall Score for Best VPNs for Mac/MacBook users",
+    "description": "This chart shows the macos suitability: overall score for each VPN provider when used for best vpns for mac/macbook users.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "macOS Suitability: Overall Score - NordVPN",
+            "value": 10.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "macOS Suitability: Overall Score - Surfshark",
+            "value": 6.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "macOS Suitability: Overall Score - IPVanish",
+            "value": 6.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "macOS Suitability: Overall Score - CyberGhost",
+            "value": 5.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "macOS Suitability: Overall Score - PureVPN",
+            "value": 7.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "macOS Suitability: Overall Score - PIA",
+            "value": 7.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "macOS Suitability: Overall Score - Proton VPN",
+            "value": 6.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "macOS Suitability: Overall Score - ExpressVPN",
+            "value": 6.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "macOS Suitability: Overall Score - PrivateVPN",
+            "value": 5.0,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Expert scoring"
+}
