@@ -1,0 +1,62 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average of other providers for Best VPNs for Australian TV",
+    "description": "This chart shows the average of other providers for each VPN provider when used for best vpns for australian tv.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - NordVPN",
+            "value": 93.7,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - Surfshark",
+            "value": 94.3,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - IPVanish",
+            "value": 97.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - ExpressVPN",
+            "value": 102.7,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - PureVPN",
+            "value": 94.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - Proton VPN",
+            "value": 108.1,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - CyberGhost",
+            "value": 112.3,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - PrivateVPN",
+            "value": 108.6,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
