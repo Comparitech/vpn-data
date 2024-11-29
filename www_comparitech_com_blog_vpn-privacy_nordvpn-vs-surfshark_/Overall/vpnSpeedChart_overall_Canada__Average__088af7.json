@@ -1,0 +1,26 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Canada (Average) for NordVPN vs Surfshark",
+    "description": "This chart shows the canada (average) for each VPN provider when used for nordvpn vs surfshark.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Canada (Average) - NordVPN",
+            "value": 191.7,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Canada (Average) - Surfshark",
+            "value": 191.0,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
