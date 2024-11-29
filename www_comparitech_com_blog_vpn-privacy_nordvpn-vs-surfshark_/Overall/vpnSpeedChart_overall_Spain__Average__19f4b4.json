@@ -1,0 +1,26 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Spain (Average) for NordVPN vs Surfshark",
+    "description": "This chart shows the spain (average) for each VPN provider when used for nordvpn vs surfshark.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Spain (Average) - NordVPN",
+            "value": 214.5,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Spain (Average) - Surfshark",
+            "value": 226.7,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
