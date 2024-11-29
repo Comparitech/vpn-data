@@ -1,0 +1,26 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "US (Average) for NordVPN vs Surfshark",
+    "description": "This chart shows the us (average) for each VPN provider when used for nordvpn vs surfshark.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "US (Average) - NordVPN",
+            "value": 202.1,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US (Average) - Surfshark",
+            "value": 202.5,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
