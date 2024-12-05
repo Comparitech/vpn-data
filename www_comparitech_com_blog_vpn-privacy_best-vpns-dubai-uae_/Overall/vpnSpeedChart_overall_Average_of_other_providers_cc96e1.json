@@ -1,0 +1,62 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average of other providers for Best VPNs for UAE and Dubai",
+    "description": "This chart shows the average of other providers for each VPN provider when used for best vpns for uae and dubai.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - NordVPN",
+            "value": 157.4,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - Surfshark",
+            "value": 157.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - IPVanish",
+            "value": 159.4,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - ExpressVPN",
+            "value": 163.0,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - PureVPN",
+            "value": 160.3,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - Proton VPN",
+            "value": 158.9,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - PIA",
+            "value": 168.4,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - PrivateVPN",
+            "value": 169.3,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
