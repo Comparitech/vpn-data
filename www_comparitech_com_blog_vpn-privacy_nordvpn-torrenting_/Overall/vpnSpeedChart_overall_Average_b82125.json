@@ -1,0 +1,50 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average for NordVPN for torrenting",
+    "description": "This chart shows the average for each VPN provider when used for nordvpn for torrenting.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Average - NordVPN",
+            "value": 206.7,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average - Surfshark",
+            "value": 205.4,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average - IPVanish",
+            "value": 194.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average - ExpressVPN",
+            "value": 183.5,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average - CyberGhost",
+            "value": 197.7,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average - PrivateVPN",
+            "value": 88.5,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
