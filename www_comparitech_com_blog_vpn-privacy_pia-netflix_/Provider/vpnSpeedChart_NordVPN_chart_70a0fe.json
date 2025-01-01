@@ -1,0 +1,32 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "NordVPN Speed Tests for PIA not working with Netflix?",
+    "description": "This chart shows the speed test results for NordVPN when used for pia not working with netflix?.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "AM",
+            "value": 193.41,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 196.95,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 198.5,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
