@@ -1,0 +1,44 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "PureVPN Speed Tests for Sky Go",
+    "description": "This chart shows the speed test results for PureVPN when used for sky go.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "AM",
+            "value": 43.15,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 47.0,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 40.9,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 45.59,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 45.24,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
