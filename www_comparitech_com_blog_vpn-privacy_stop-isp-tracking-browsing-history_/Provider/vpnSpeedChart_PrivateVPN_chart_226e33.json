@@ -1,0 +1,32 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "PrivateVPN Speed Tests for stoping your ISP tracking your browser history",
+    "description": "This chart shows the speed test results for PrivateVPN when used for stoping your isp tracking your browser history.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "AM",
+            "value": 65.91,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 105.81,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 96.8,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
