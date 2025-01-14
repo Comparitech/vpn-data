@@ -1,0 +1,50 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average of other providers for unblocking Roblox on a school computer",
+    "description": "This chart shows the average of other providers for each VPN provider when used for unblocking roblox on a school computer.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - NordVPN",
+            "value": 128.3,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - Surfshark",
+            "value": 128.1,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - IPVanish",
+            "value": 125.4,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - ExpressVPN",
+            "value": 144.2,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - CyberGhost",
+            "value": 137.5,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers - PrivateVPN",
+            "value": 153.2,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
