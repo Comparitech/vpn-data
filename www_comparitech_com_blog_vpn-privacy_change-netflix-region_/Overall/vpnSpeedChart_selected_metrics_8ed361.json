@@ -1,0 +1,68 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average Speed by VPN Provider for Selected Metrics",
+    "description": "This chart shows the average speeds across selected metrics for each VPN provider.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Average Speed",
+            "value": 51.07666666666666,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Average Speed",
+            "value": 49.26666666666667,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Average Speed",
+            "value": 47.93666666666667,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Average Speed",
+            "value": 47.836666666666666,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Average Speed",
+            "value": 47.620000000000005,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Average Speed",
+            "value": 47.416666666666664,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PIA - Average Speed",
+            "value": 46.77333333333333,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Average Speed",
+            "value": 46.75666666666667,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Average Speed",
+            "value": 44.85999999999999,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
