@@ -1,0 +1,68 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Average Speed by VPN Provider for Selected Metrics",
+    "description": "This chart shows the average speeds across selected metrics for each VPN provider.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "PureVPN - Average Speed",
+            "value": 51.562,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "CyberGhost - Average Speed",
+            "value": 47.382,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "NordVPN - Average Speed",
+            "value": 46.678,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Surfshark - Average Speed",
+            "value": 46.05,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "ExpressVPN - Average Speed",
+            "value": 45.763999999999996,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PrivateVPN - Average Speed",
+            "value": 45.46,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Proton VPN - Average Speed",
+            "value": 45.262,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PIA - Average Speed",
+            "value": 44.9,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "IPVanish - Average Speed",
+            "value": 43.236000000000004,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
