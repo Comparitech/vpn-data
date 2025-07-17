@@ -1,0 +1,56 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "PureVPN Speed Tests for Best VPNs for travel abroad",
+    "description": "This chart shows the speed test results for PureVPN when used for best vpns for travel abroad.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "France",
+            "value": 42.44,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Greece",
+            "value": 39.56,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Italy",
+            "value": 44.22,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Japan",
+            "value": 43.31,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "South Korea",
+            "value": 19.89,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average speed",
+            "value": 31.57,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 39.76,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
