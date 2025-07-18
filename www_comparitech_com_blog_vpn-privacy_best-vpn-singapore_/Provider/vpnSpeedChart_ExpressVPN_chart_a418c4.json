@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "ExpressVPN Speed Tests for Best VPNs for Singapore",
+    "description": "This chart shows the speed test results for ExpressVPN when used for best vpns for singapore.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [],
+    "measurementTechnique": "Speed test"
+}
