@@ -1,0 +1,68 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Streaming capabilities: Overall Score for beating the UK porn ban with a VPN",
+    "description": "This chart shows the streaming capabilities: overall score for each VPN provider when used for beating the uk porn ban with a vpn.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming capabilities: Overall Score - NordVPN",
+            "value": 10.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming capabilities: Overall Score - Surfshark",
+            "value": 9.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming capabilities: Overall Score - Total VPN",
+            "value": 9.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming capabilities: Overall Score - Proton VPN",
+            "value": 9.7,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming capabilities: Overall Score - ExpressVPN",
+            "value": 9.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming capabilities: Overall Score - IPVanish",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming capabilities: Overall Score - CyberGhost",
+            "value": 5.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming capabilities: Overall Score - PIA",
+            "value": 7.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming capabilities: Overall Score - PrivateVPN",
+            "value": 7.2,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Expert scoring"
+}
