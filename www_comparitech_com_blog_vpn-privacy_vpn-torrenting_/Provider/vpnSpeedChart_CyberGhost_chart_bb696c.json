@@ -1,0 +1,44 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "CyberGhost Speed Tests for Best VPNs for torrenting",
+    "description": "This chart shows the speed test results for CyberGhost when used for best vpns for torrenting.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "AM",
+            "value": 127.12,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 130.6,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 135.9,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 131.22,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 133.32,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
