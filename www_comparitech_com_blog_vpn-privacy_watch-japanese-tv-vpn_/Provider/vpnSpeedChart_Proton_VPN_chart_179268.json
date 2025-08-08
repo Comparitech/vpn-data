@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Proton VPN Speed Tests for watching Japanese TV",
+    "description": "This chart shows the speed test results for Proton VPN when used for watching japanese tv.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [],
+    "measurementTechnique": "Speed test"
+}
