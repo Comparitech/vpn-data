@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "IPVanish Speed Tests for Best VPNs for Thailand",
+    "description": "This chart shows the speed test results for IPVanish when used for best vpns for thailand.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [],
+    "measurementTechnique": "Speed test"
+}
