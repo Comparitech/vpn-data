@@ -1,0 +1,68 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Malaysia speed testing: Overall Score for geting an IP address for Malaysia",
+    "description": "This chart shows the malaysia speed testing: overall score for each VPN provider when used for geting an ip address for malaysia.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Malaysia speed testing: Overall Score - NordVPN",
+            "value": 10.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Malaysia speed testing: Overall Score - Surfshark",
+            "value": 9.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Malaysia speed testing: Overall Score - Total VPN",
+            "value": 8.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Malaysia speed testing: Overall Score - Proton VPN",
+            "value": 5.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Malaysia speed testing: Overall Score - ExpressVPN",
+            "value": 6.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Malaysia speed testing: Overall Score - IPVanish",
+            "value": 7.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Malaysia speed testing: Overall Score - CyberGhost",
+            "value": 6.9,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Malaysia speed testing: Overall Score - PIA",
+            "value": 2.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Malaysia speed testing: Overall Score - PrivateVPN",
+            "value": 1.0,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Expert scoring"
+}
