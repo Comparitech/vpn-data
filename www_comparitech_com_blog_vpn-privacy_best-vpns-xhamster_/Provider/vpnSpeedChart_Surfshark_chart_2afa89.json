@@ -1,0 +1,44 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Surfshark Speed Tests for Best VPNs for xHamster",
+    "description": "This chart shows the speed test results for Surfshark when used for best vpns for xhamster.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "AM",
+            "value": 193.14,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 196.8,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 195.34,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 195.09,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 140.74,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
