@@ -1,0 +1,74 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "US speed: Overall Score for 9 Best VPNs for unblocking Twitter",
+    "description": "This chart shows the us speed: overall score for each VPN provider when used for 9 best vpns for unblocking twitter.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "US speed: Overall Score - NordVPN",
+            "value": 10.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US speed: Overall Score - Surfshark",
+            "value": 8.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US speed: Overall Score - Total VPN",
+            "value": 8.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US speed: Overall Score - Proton VPN",
+            "value": 4.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US speed: Overall Score - ExpressVPN",
+            "value": 4.5,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US speed: Overall Score - IPVanish",
+            "value": 6.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US speed: Overall Score - CyberGhost",
+            "value": 5.9,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US speed: Overall Score - PureVPN",
+            "value": 4.6,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US speed: Overall Score - PIA",
+            "value": 1.3,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "US speed: Overall Score - PrivateVPN",
+            "value": 1.0,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Expert scoring"
+}
