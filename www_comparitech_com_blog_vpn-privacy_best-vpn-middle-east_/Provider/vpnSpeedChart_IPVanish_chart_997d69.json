@@ -1,0 +1,44 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "IPVanish Speed Tests for Best VPNs for the Middle East",
+    "description": "This chart shows the speed test results for IPVanish when used for best vpns for the middle east.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "AM",
+            "value": 177.01,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Noon",
+            "value": 172.8,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "PM",
+            "value": 181.91,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average",
+            "value": 177.23,
+            "unitText": "Mbps"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Average of other providers",
+            "value": 136.79,
+            "unitText": "Mbps"
+        }
+    ],
+    "measurementTechnique": "Speed test"
+}
