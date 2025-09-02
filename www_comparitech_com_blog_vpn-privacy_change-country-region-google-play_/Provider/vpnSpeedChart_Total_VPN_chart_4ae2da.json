@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Total VPN Speed Tests for Change country on Google Play",
+    "description": "This chart shows the speed test results for Total VPN when used for change country on google play.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [],
+    "measurementTechnique": "Speed test"
+}
