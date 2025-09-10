@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Surfshark Speed Tests for 6 Best VPNs for Ubuntu",
+    "description": "This chart shows the speed test results for Surfshark when used for 6 best vpns for ubuntu.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [],
+    "measurementTechnique": "Speed test"
+}
