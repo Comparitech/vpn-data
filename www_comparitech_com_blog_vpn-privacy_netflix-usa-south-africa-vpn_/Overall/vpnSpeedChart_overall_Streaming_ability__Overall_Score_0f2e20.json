@@ -1,0 +1,74 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "name": "Streaming ability: Overall Score for watching Netflix USA content in South Africa",
+    "description": "This chart shows the streaming ability: overall score for each VPN provider when used for watching netflix usa content in south africa.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Comparitech Ltd"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "variableMeasured": [
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - NordVPN",
+            "value": 9.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - Surfshark",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - Total VPN",
+            "value": 9.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - Proton VPN",
+            "value": 8.2,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - ExpressVPN",
+            "value": 9.0,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - IPVanish",
+            "value": 8.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - CyberGhost",
+            "value": 6.4,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - PureVPN",
+            "value": 7.1,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - PIA",
+            "value": 5.8,
+            "unitText": "Score out of 10"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "Streaming ability: Overall Score - PrivateVPN",
+            "value": 5.9,
+            "unitText": "Score out of 10"
+        }
+    ],
+    "measurementTechnique": "Expert scoring"
+}
